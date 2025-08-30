@@ -3,12 +3,12 @@
 ## 📖 Overview
 This project demonstrates **Object-Oriented Programming (OOP)** principles in Python through two assignments:
 
-1. **Assignment 1: Superhero Class Design**
+1. **Part 1: Superhero Class Design**
    - A `Superhero` base class with attributes, methods, and encapsulation.
    - Subclasses (`FlyingHero`, `TechHero`) that extend functionality and override methods.
    - Covers **constructors, inheritance, encapsulation, and polymorphism**.
 
-2. **Assignment 2: Polymorphism Challenge**
+2. **Part 2: Polymorphism Challenge**
    - A `Vehicle` base class with subclasses (`Car`, `Plane`, `Boat`, `Bicycle`).
    - Each subclass implements the same `move()` method differently.
    - Demonstrates **polymorphism via method overriding**.
